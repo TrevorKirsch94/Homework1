@@ -15,7 +15,7 @@ operational
 I-74 NB from Isle Park to Holmes
 operational
 I-74 NB from Lincoln to Middle
-operational
+failed
 I-74 NB from Spruce Hills to Cro
 operational
 I-74 NB from Middle to Spruce Hi
@@ -29,7 +29,7 @@ operational
 I-74 SB from Kimberly to Middle
 operational
 I-74 SB from Middle to Lincoln
-operational
+failed
 I-74 SB from Holmes to Isle Park
 operational
 I-74 SB from Isle Parkway to Nor
@@ -53,15 +53,15 @@ operational
 I-74 SB from Lincoln to Holmes
 operational
 QCDS-19-WB
-failed
+operational
 QCDS-20-WB
-failed
+operational
 QCDS-21-WB Ramp
-failed
+operational
 QCDS-22-WB
 operational
 QCDS-20-WB Ramp
-failed
+operational
 QCDS-23-WB
 operational
 QCDS-23-EB
@@ -69,9 +69,9 @@ operational
 QCDS-22-EB
 operational
 QCDS-20-EB
-failed
+operational
 QCDS-19-EB
-failed
+operational
 QCDS-24-EB
 off
 QCDS-24-EB
